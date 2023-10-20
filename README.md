@@ -7,7 +7,9 @@
     
 ### 2.使用pip安装以下python包 
   
-pip install  flask flask_migrate flask_mail flask-wtf email-validator -i https://pypi.tuna.tsinghua.edu.cn/simple  
+pip install  flask flask_migrate flask_mail flask-wtf email-validator -i https://pypi.tuna.tsinghua.edu.cn/simple 
+![image](https://github.com/czlslove/zhiliaooa/assets/122330326/3d1f3ddb-59a8-48b8-a256-4430b47bee05)
+
   
 ### 3.安装mysql，将用户名和密码都设置为root，创建名为zhiliaooa的数据库（字符集为utf8）  
   
