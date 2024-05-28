@@ -24,7 +24,7 @@ CREATE DATABASE zhiliaooa CHARACTER SET utf8;
   
 ### 5.运行app.py启动项目  
   
-python app.pyp  
+python app.py
   
 ### 6.访问本机5000端口  
 
